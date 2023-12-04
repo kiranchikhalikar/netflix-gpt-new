@@ -101,7 +101,7 @@ const Login = () => {
           <input
             ref={name}
             type="text"
-            placeholder="Full Name"
+            placeholder="Full_Name"
             className="my-4 p-3 w-full rounded-sm bg-gray-700"
           />
         )}
